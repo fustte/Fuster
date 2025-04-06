@@ -37,7 +37,7 @@ Actualmente estoy perfeccionando mis habilidades en backend y explorando nuevas 
 ## 📫 Contacto  
 - **Correo electrónico:** [ramos.fuster.javier@gmail.com](mailto:ramos.fuster.javier@gmail.com)  
 - **LinkedIn:** [www.linkedin.com/in/fuster](https://www.linkedin.com/in/fuster)  
-- **GitHub:** [Tu usuario en GitHub](#)  
+- **GitHub:** [https://github.com/fustte](#)  
 - **Portafolio:** *(En construcción)*  
 
 ---
