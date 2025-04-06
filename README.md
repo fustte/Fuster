@@ -30,7 +30,7 @@ Accede a mis proyectos destacados directamente en LinkedIn.
 ---
 
 ## 🌱 ¿En qué estoy trabajando?  
-Actualmente estoy perfeccionando mis habilidades en backend y explorando nuevas tecnologías como [algún área específica que estés aprendiendo o quieras destacar]. También trabajo en nuevos proyectos colaborativos para seguir creciendo como desarrollador.
+Actualmente estoy perfeccionando mis habilidades en backend y explorando nuevas tecnologías como Java. También trabajo en nuevos proyectos colaborativos para seguir creciendo como desarrollador.
 
 ---
 
