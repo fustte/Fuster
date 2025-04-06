@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="himg.JPG" />
-</p>    
+ 
 
 # 👨‍💻 Javier Ramos Fuster  
 **Desarrollador Full Stack | Apasionado por la Innovación Tecnológica | Especialista en Backend**
