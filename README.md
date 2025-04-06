@@ -48,3 +48,7 @@ Actualmente estoy perfeccionando mis habilidades en backend y explorando nuevas 
 ---
 
 ⭐ **Gracias por visitar mi perfil.** Si estás interesado en colaborar en proyectos innovadores o discutir ideas tecnológicas, no dudes en contactarme. 🚀
+
+<p align="center">
+  <img src="sun.jpeg" />
+</p>    
